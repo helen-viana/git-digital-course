@@ -1,2 +1,3 @@
-# git-digital-course
-My first repository on GitHub
+# Curso Digital: Git/Versionamento
+
+# Salvando modificações no Git
