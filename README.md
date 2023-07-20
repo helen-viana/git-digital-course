@@ -1,6 +1,8 @@
-# git-digital-course
-My first repository on GitHub
+# Curso Digital: Git/Versionamento
 
-# Git Digital Course
+# Salvando modificações no Git
+* Comando git push 
+* Comando git pull
+* Comando git fetch
 
-## Gravando alterações no repositório
+teste senac
